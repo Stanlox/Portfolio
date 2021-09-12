@@ -18,10 +18,12 @@
 }
 .nav_link{
     padding: 10px 30px;
+    position: relative;
+    margin-left: 30px;
     font-size: 14px;
     color:black;
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 600;
     text-decoration: none;
     border: 2px solid transparent;
     border-radius: 20px;
@@ -29,4 +31,5 @@
 
 .nav_link:hover{
     border:2px solid black;
+    transition: 0.4s;
 }
