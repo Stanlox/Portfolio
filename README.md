@@ -1,6 +1,6 @@
 # Portfolio
 
-##A project to create your own website.
+A project to create your own website.
 ---
 The requirements are as follows:
 >1. Сreating several main blocks with information(About me, Contacts, Experience, Work, Hire me).
